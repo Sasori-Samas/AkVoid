@@ -1,0 +1,13 @@
+{
+  "prefix": "My actually prefix is: ",
+  "modautor": "Author : ",
+    "moduser": "Author : ",
+    "modsucess": "Success : ",
+    "modtemp": "Time: : ",
+    "ban": "has been banned from the server!",
+    "mute": "has been muted ! : ",
+    "unban": "has been unbanned from the server",
+    "kick":"has been kicked from the server",
+    "warn": "Auteur : ",
+    "unwarn": "Auteur : "
+}
